@@ -83,7 +83,7 @@ Hecho por: Aitor y JaimeMG
 3. Ejecuta el siguiente comando:
 
 ```bash
-python caja_registradora.py
+python GestorDeCaja.py
 ```
 
 *(En sistemas Linux o macOS puede ser necesario usar `python3 caja_registradora.py`)*.
