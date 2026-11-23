@@ -1,9 +1,9 @@
-"""
-=====================O=====================
-Aplicación de consola: Caja registradora.
-Hecho por: Aitor & JaimeMG
-=====================O=====================
-"""
+"""}==========O=========={
+ Cabecera
+ Aplicación de consola: Caja registradora. 
+ Autores: Aitor & JaimeMG 
+ Fecha: 23/11/2026 
+ }==========O=========={"""
 
 
 def seleccionar_forma_pago() -> str:
